@@ -20,7 +20,6 @@ The workflow covers **data preprocessing, model training, evaluation, and cross-
 **Iris Dataset**
 - Species distribution is balanced (50 samples each).
 - Pairplot shows clear separability between species.
-![Iris Species Distribution](https://github.com/mnzeiter/ml-classification-models-comparison//blob/main/results/iris-distribution.png?raw=true)
 ![Iris Species Distribution](results/iris-distribution.png)  
 ![Iris Pairplot](results/iris-pairplot.png)
 
