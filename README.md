@@ -19,17 +19,17 @@ The workflow covers **data preprocessing, model training, evaluation, and cross-
 
 **Iris Dataset**
 - Species distribution is balanced (50 samples each).
-- Pairplot shows clear separability between species.
+
 ![Iris Species Distribution](results/iris-distribution.png)
 
+- Pairplot shows clear separability between species.
 ![Iris Pairplot](results/iris-pairplot.png)
 
 **Cancer Diagnosis Dataset**
 - More benign than malignant cases.
-- Strong correlations between some features (e.g., radius, perimeter, area).
-
 ![Cancer Diagnosis Distribution](results/cancer-distribution.png)  
 
+- Strong correlations between some features (e.g., radius, perimeter, area).
 ![Feature Correlation Heatmap](results/correlation-heatmap.png)
 
 ---
